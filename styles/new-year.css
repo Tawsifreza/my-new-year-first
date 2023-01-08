@@ -1,0 +1,127 @@
+/* banner section */
+
+.banner{
+    display:flex ;
+    background: url(flat-lay-abstract-composition-with-innovation-elements.jpg);
+    margin-bottom: 130px;
+    
+}
+.banner-contain{
+    margin-right:200px;
+}
+.banner-title{
+    font-weight: 700;
+font-size: 65px;
+color: #151414;
+margin-right: 200px ;
+text-align: right;
+
+
+}
+.banner-description{
+    font-size: 20px;
+line-height: 26px;
+color: #444343;
+text-align: right;
+}
+.btn-primary{
+    
+    background: #F15B22;
+border-radius: 5px;
+width: 160px;
+height: 64px;
+}
+.banner-img{
+    width:845px;
+    height: 808px;
+}
+/* failure section */
+.failure{
+    display: flex;
+    width: 1072px;
+height: 723.3px;
+    
+}
+.failure-title{
+    font-weight: 700;
+font-size: 40px;
+color: #151414;
+text-align: right;
+}
+.failure-description{
+    font-weight: 400;
+font-size: 16px;
+width: 416px;
+height: 104px;
+text-align: right;
+}
+.list{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+
+
+}
+.failure-img{
+    background-image: url("");
+}
+/* plan section */
+h2{
+    font-weight: 700;
+font-size: 40px;
+
+}
+.plan-img{
+
+}
+.plan-title{
+    font-weight: 700;
+font-size: 30px;
+text-align: center;
+color: #151414;
+
+
+}
+.plan-description{
+    color: #737272;
+}
+.plan{
+    display: flex;
+    gap: 250px;
+    margin: 50px 220px;
+}
+h2{
+    text-align: center;
+}
+/* call */
+.call{
+    background-image:url('images/watch.png');
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+     
+border-radius: 8px;
+}
+.button{
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+background-color: #F15B22;
+position:relative;
+
+}
+/* feature */
+.icon{
+    display: flex;
+}
+.feature{
+    color: #FFFFFF;
+    
+    background-color: #151414;
+}
+.head{
+    color: #FFFFFF;
+    text-align: center;
+}
+.fea-description{
+    color: #FFFFFF;
+}
+    
